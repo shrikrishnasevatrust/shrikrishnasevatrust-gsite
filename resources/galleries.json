@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Gallery 1 Title",
+      "subtitle": "Gallery 1 Subtitle",
+      "images": [
+        "https://deep-image.ai/_next/static/media/app-info-generator.bf08e63e.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREoRGyXmHy_6aIgXYqWHdOT3KjfmnuSyxypw&s",
+      ]
+    },
+    {
+      "title": "Gallery 2 Title",
+      "subtitle": "Gallery 2 Subtitle",
+      "images": [
+        "https://deep-image.ai/_next/static/media/app-info-generator.bf08e63e.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREoRGyXmHy_6aIgXYqWHdOT3KjfmnuSyxypw&s",
+      ]
+    },
+    
+  ]
+  
